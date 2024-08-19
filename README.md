@@ -38,6 +38,12 @@ The Airworthiness Database is a web application to enable tracking the records o
     http://localhost:2468/
     ```
 
+## Screenshots of web page
+Airworthiness Directives page:
+!(/screenshots/AD_page.png?raw=true)
+
+
+
 ## Citations
 - The code for this application was developed by Ian Bubier and Josh Embury with guidance from the Oregon State University CS340 course material.
 - Changes were made to the application as a result of valuable feedback received by Justin Dickerson (TA) and by Peer Reviewers in the CS340 course.
