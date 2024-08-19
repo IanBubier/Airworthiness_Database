@@ -38,11 +38,24 @@ The Airworthiness Database is a web application to enable tracking the records o
     http://localhost:2468/
     ```
 
-## Screenshots of web page
+## Screenshots of webpage
 Airworthiness Directives page:
-!(/screenshots/AD_page.png?raw=true)
+![](/screenshots/AD_page.png?raw=true)
 
+Registered Aircraft page:
+![](/screenshots/RA_page.png?raw=true)
 
+Aircraft Models page:
+![](/screenshots/AM_page.png?raw=true)
+
+Aircraft Owners page:
+![](/screenshots/AO_page.png?raw=true)
+
+Maintenance Records page:
+![](/screenshots/MR_page.png?raw=true)
+
+Models Impacted by Directives page:
+![](/screenshots/MID_page.png?raw=true)
 
 ## Citations
 - The code for this application was developed by Ian Bubier and Josh Embury with guidance from the Oregon State University CS340 course material.
